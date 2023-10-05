@@ -1,0 +1,6 @@
+co/sqasa/runners/testRunner.java
+ co.sqasa.runners.testRunner
+co/sqasa/StepDef/AgregarDosProductosCarrito.java
+ co.sqasa.StepDef.AgregarDosProductosCarrito
+co/sqasa/StepDef/AgregarProductoCategoria.java
+ co.sqasa.StepDef.AgregarProductoCategoria
